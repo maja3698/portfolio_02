@@ -246,7 +246,7 @@ header {
   min-height: 100vh;
   padding-top: 2rem;
   flex-wrap: wrap-reverse;
-  background: url("/assets/bg2.png");
+  background: url("../assets/bg2.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
